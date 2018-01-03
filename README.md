@@ -1,7 +1,7 @@
 # Deep Space Mining
 
 3-4 resource-demanding risky choices (Oregon Trail, FTL)
-Visual challenges with an increasing number of clues (Papers, please!, Sherlock, Battleship)
+Visual challenges with an increasing number of clues (Papers, please!, Sherlock, Battleship, Sudoku)
 Resource balancing tasks during tool crafting (Gamedev Tycoon)
 
 The toolmaker tool and the personal refinery are universal, initially given and automatic, because they are not related to the mining procedure, the discovery and extraction of ores.
@@ -14,7 +14,7 @@ Ores are spread across the universe widely. The close ones can be located and id
 
 Planets hold an enormous amount of resources, but hauling them into space is very resource demanding, because of gravity. Asteroids hold a lot less resources, but harvesting them hasn’t got any additional cost.
 
-In the beginning every miner has a small set of randomly chosen ores, tools, and knowledge based on the ores that can be found around their randomly selected start location.
+In the beginning every miner has a small set of randomly chosen ores, tools, and knowledge based on the ores that can be found around their randomly selected start location. With that the miner should be able to completely explore the whole procedurally generated universe and mine every block of it without any gameplay related random element that would make its ingredients indeterminable based on all the previous information the miner can gather about it.
 
 Lens 1:
 What emotions would I like my player to experience? Why?
