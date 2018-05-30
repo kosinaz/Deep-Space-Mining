@@ -16,6 +16,36 @@ Planets hold an enormous amount of resources, but hauling them into space is ver
 
 In the beginning every miner has a small set of randomly chosen ores, tools, and knowledge based on the ores that can be found around their randomly selected start location. With that the miner should be able to completely explore the whole procedurally generated universe and mine every block of it without any gameplay related random element that would make its ingredients indeterminable based on all the previous information the miner can gather about it.
 
+# Beyond Starmade
+
+## Issue
+
+The player starts with super cheap ship core and enough credits to build a small fighter right at the beginning and start hunting pirates. There is no need for teamwork, and there isn’t any real progress that offers the satisfaction of owning and maintaining a whole ship as its captain.
+
+## Solution
+
+With more expensive ship parts and an ultra expensive, multi-purpose, hard to build ship core, the players’ only way to have their own ships is to be crew members of others’ ships. Because that way they are able to participate in missions, reach different planets, hunt pirates or raid traders, and earn their part of the loot that helps them to have their own ship later on.
+So instead of an advanced shop, all the players should start in a large trade station, where they can meet each other, get a job in the local factory, become a gunner on a patrol ship around the station, or in a wealthier player’s crew.
+
+## Experiences
+
+A small miner fleet found my planet and the fighters attacked my base without warning. I had seconds to grab all the stuff I wanted to save and jump into my unfinished unarmed ship. I was able to escape but I was unable to stop. There were no generators in my ship yet and I used all my initial energy to gain the escape velocity so I was unable to use my thrusters to slow down. I quickly realized that I have to build the generators literally on the fly. It was quite exciting building the generator block by block while my ship was rushing into the unknown space of stars and pirate stations. Later when I finished my ship I went back to my planet and I even found some of my stuff unharmed.
+
+### Pros
+
+* Random encounters with similar motivations
+* Accidents and unexpected events caused by bad but not fatal decisions
+* Problem-solving on the fly with an uncertain but imminent deadline
+
+### Cons
+
+* Quiet AI, no warning or friendly welcome
+
+Mining for raw materials and manufacturing them are key features of the game, still, these are the weakest points of it.
+There are too few raw materials and while there are a lot of blocks to make the challenge is not to manufacture them but to farm enough materials for them. Which is unchallenging and time-consuming. Its only purpose is to delay the building. It is missing meaningful choices and the only challenge of the intelligence is to remember which planet part or asteroid provides which materials.
+
+# Through Lenses
+
 Lens 1:
 What emotions would I like my player to experience? Why?
 
